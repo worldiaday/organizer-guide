@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+## World IA Day Organizer Guidebook
+- 2017 edition, Amy Espinosa
+- 2018 edition, Sam Raddatz, Evgeni Minchev, and Grace Lau
+- 2019 edition, Grace Lau
 
-You can use the [editor on GitHub](https://github.com/WorldIADay/organizer-guide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*TABLE OF CONTENTS*
+### Chapter 00 – Welcome
+- Welcome To Our Community
+- Our Driving Principles
+- Our Code of Conduct
+- Our Privacy Policy
+- Our Guidelines
+- Frequently Asked Questions
+- The Global Team
+- Accessing Email, Twitter, and Slack
+		
+### Chapter 01 – Building a Team & Budget
+- Recruit a Team
+- Create a Budget
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Chapter 02 – Sponsors & Content Curation
+- Find Sponsors for Your Celebration
+- Curate Content for a Celebration
+- Sponsorship Bonus Program
 
-### Markdown
+### Chapter 03 – Venue & A/V
+- Find a Venue
+- Secure the Venue
+- Set up Audio/Video
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Chapter 04 – Marketing Your Celebration
+- Promoting Celebrations Globally
+- Marketing Channels
+- Promote Celebrations Locally
+- Social Media Guide
 
-```markdown
-Syntax highlighted code block
+### Chapter 05 – Registration and Information Collection
+- Data Collection & Privacy
+- Prepare & Launch Registration
+- Preparing for Registration
 
-# Header 1
-## Header 2
-### Header 3
+### Chapter 06 – Emergency Funding, Celebration Day and Content Archival
+- Preparing for the Day-of Experience
+- Emergency Fund Guidelines
+- Global Give-a-ways
+- Celebration Day!
+- Celebration Day Toolkit
 
-- Bulleted
-- List
+### Chapter 07 – After the Celebration
+- Post-Celebration Reminders
 
-1. Numbered
-2. List
+### Resources
+- Brand Guidelines
+- Example Budgets
+- Stickers
+- Presentation Templates
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WorldIADay/organizer-guide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having questions or concerns? We’ll help you sort it out.
+- Slack: http://worldiaday.slack.com
+- Email: producer@worldiaday.org
+- Twitter: [@worldiaday](https://twitter.com/WorldIADay)
