@@ -101,14 +101,14 @@ Finalize your sponsor prospectus and get ready to reach out to your target list.
 4. Don’t forget to attach the sponsor prospectus you created for your location.
 
 Examples of sponsorship prospectus:
-- [Postcard Hyderabad 2015](/resources/sponsor/Postcard Hyderabad 2015.pdf)
-- [Sponsor Email London](/resources/sponsor/Sponsor Email London.docx)
-- [Sponsor Email Boston 2016](/resources/sponsor/Sponsor Letter Boston 2016.pdf)
-- [Sponsor Email Zurich 2015](/resources/sponsor/Sponsor Letter Zurich 2015-2 versions.pdf)
-- [Sponsor Levels Milwaukee 2016](/resources/sponsor/Sponsor Levels Milwaukee 2016.pdf)
-- [Sponsor Levels San Francisco 2016](/resources/sponsor/Sponsor Levels San Francisco 2016.png)
-- [Sponsorship Levels Tampa Bay 2015](/resources/sponsor/Sponsorship Levels Tampa Bay 2015.png)
-- [Sponsorship Levels Zurich 2016](/resources/sponsor/Sponsorship Levels Zurich 2016.docx)
+- [Postcard Hyderabad 2015](/resources/sponsorship/Postcard Hyderabad 2015.pdf)
+- [Sponsor Email London](/resources/sponsorship/Sponsor Email London.docx)
+- [Sponsor Email Boston 2016](/resources/sponsorship/Sponsor Letter Boston 2016.pdf)
+- [Sponsor Email Zurich 2015](/resources/sponsorship/Sponsor Letter Zurich 2015-2 versions.pdf)
+- [Sponsor Levels Milwaukee 2016](/resources/sponsorship/Sponsor Levels Milwaukee 2016.pdf)
+- [Sponsor Levels San Francisco 2016](/resources/sponsorship/Sponsor Levels San Francisco 2016.png)
+- [Sponsorship Levels Tampa Bay 2015](/resources/sponsorship/Sponsorship Levels Tampa Bay 2015.png)
+- [Sponsorship Levels Zurich 2016](/resources/sponsorship/Sponsorship Levels Zurich 2016.docx)
 
 ## Close the deal.
 Sponsorship is a business arrangement. It is important to have an agreement in writing so that both parties understand what to expect and are clear on what will be delivered. We have provided a [sponsorship agreement (Google Doc)](https://docs.google.com/document/d/1sLRu-6qQ8ayuO58EVBRcrQEpnpy6aAMmOuZqDNEa5KA/edit?usp=sharing) and [sponsorship invoice](https://docs.google.com/document/d/1vyTt7ob5eDKWHPVeeJGFl1YZOycsyEn-b9jo-3iTMSQ/edit?usp=sharing) templates for you to get started.
