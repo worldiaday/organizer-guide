@@ -197,8 +197,8 @@ If your location has secured a local grant, we understand there may be a need to
 > TIP: Some locations have had success asking their sponsors to pay their vendors directly. This eliminates having to handle money and you still get what you need for your celebration.
 
 ## Other Sponsorship Links You Might Find Useful
-http://www.inc.com/marla-tabaka/surprising-way-to-fund-your-business.html
-http://www.wikihow.com/Seek-Sponsorships
-http://www.youngupstarts.com/2008/09/10/desperately-seeking-sponsorships-a-how-to-guide/
-http://www.idealist.org/info/Nonprofits/Dev2
-http://blogs.constantcontact.com/successful-nonprofit-fundraising-event-getting-sponsors/
+- (http://www.inc.com/marla-tabaka/surprising-way-to-fund-your-business.html)
+- (http://www.wikihow.com/Seek-Sponsorships)
+- (http://www.youngupstarts.com/2008/09/10/desperately-seeking-sponsorships-a-how-to-guide/)
+- (http://www.idealist.org/info/Nonprofits/Dev2)
+- (http://blogs.constantcontact.com/successful-nonprofit-fundraising-event-getting-sponsors/)
