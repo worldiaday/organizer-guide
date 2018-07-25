@@ -1,30 +1,28 @@
 ## World IA Day Organizer Guidebook
 Guidebook created to help organizers of World IA Day events.
 
-2017 edition, Amy Espinosa
-
-2018 edition, Sam Raddatz, Evgeni Minchev, and Grace Lau
-
-2019 edition, Grace Lau
+- 2017 edition, Amy Espinosa
+- 2018 edition, Sam Raddatz, Evgeni Minchev, and Grace Lau
+- 2019 edition, Grace Lau
 
 ## Table of Contents
 
 ### Chapter 00 – Welcome
-- [Welcome To Our Community](index.md)
+- [Welcome To Our Community](welcome.md)
 - [Our Driving Principles](driving-principles.md)
 - [Our Code of Conduct](code-of-conduct.md)
 - [Our Privacy Policy](privacy-policy.md)
 - [Our Guidelines](guidelines.md)
 - Frequently Asked Questions
-- The Global Team
-- Accessing Email, Twitter, and Slack
-		
+- [The Global Team](global-team.md)
+- [Accessing WIAD Email and Slack](communications.md)
+
 ### Chapter 01 – Building a Team & Budget
 - [Recruit a Team](recruit-team.md)
 - [Create a Budget](create-budget.md)
 
 ### Chapter 02 – Sponsors & Content Curation
-- Find Sponsors for Your Celebration
+- [Find Sponsors for Your Celebration](find-sponsors.md)
 - Curate Content for a Celebration
 - Sponsorship Bonus Program
 
@@ -64,6 +62,6 @@ Guidebook created to help organizers of World IA Day events.
 ### Contact
 
 Having questions or concerns? We’ll help you sort it out.
-- Slack: http://worldiaday.slack.com [Join](http://bit.ly/wiad-slack) 
+- Slack: http://worldiaday.slack.com [Join](http://bit.ly/wiad-slack)
 - Email: producer@worldiaday.org or global@worldiaday.org
 - Twitter: [@worldiaday](https://twitter.com/WorldIADay)

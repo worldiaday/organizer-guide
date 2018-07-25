@@ -3,7 +3,7 @@
 ## 1. Purpose
 
 World IA Day is dedicated to the empowerment of local leaders. Our celebrations inspire the global growth of information architecture as a community of practice. We are dedicated to bringing a diversity of thoughts and thinkers.
-Volunteers work hard to bring this amazing celebration to locations all over the world. 
+Volunteers work hard to bring this amazing celebration to locations all over the world.
 
 No matter where in the world you are, we want to make sure that World IA Day is a safe experience for all volunteers, attendees, and presenters. As such, the Board of Directors of the Information Architecture Institute have drafted the below code of conduct to be agreed to and upheld by any member of the global and local volunteer teams. This code of conduct applies to all volunteers, all locations, all attendees, and all presenters of World IA Day.
 
@@ -37,7 +37,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 
 If anyone in the World IA Day community engages in any of the aforementioned behavior, the local organizer or global team may take any action they deem appropriate, from warning the offender to immediately expelling the offender from World IA Day service or attendance.
 
-## 3. Expected Behavior
+### Expected Behavior
 
 The following behaviors are expected and requested of all community members:
 
@@ -48,7 +48,7 @@ The following behaviors are expected and requested of all community members:
 *   Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 *   Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-## 4. Consequences of Unacceptable Behavior
+### Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 
@@ -56,7 +56,7 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
-## 5. We're listening
+## 3. We're listening
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns regarding the conduct of our global or local volunteers, presenters, or attendees, please contact safety@worldiaday.org where a member of our global team is dedicated to assisting all locations. They are trained in how to address and report any incidents brought to their attention. All reports will be handled in the strictest confidence.
 
@@ -74,21 +74,21 @@ If you answer “yes” to any of the following, please let us know.
 * Then, we will help you to determine the options that we have based on the situation. We will also document the details to assure trends of behavior are uncovered across locations.
 * Lastly, we will follow the situation to a resolution where you feel safe and you can remain anonymous if you wish to be.  
 
-## 6. Addressing Grievances
+## 4. Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify World IA Day with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
-## 7. Scope
+## 5. Scope
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to community business.
+We expect all WIAD participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications pertaining to WIAD events.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## 8. Contact info
+## 6. Contact info
 
-safety@worldiaday.org is an email inbox monitored by the IA Institute President, the IAI Events Director, and the WIAD Global Executive Producer.
+(safety@worldiaday.org) is an email inbox monitored by the IA Institute President, the IAI Events Director, and the WIAD Global Executive Producer.
 
-## 10. License and attribution
+## 7. License and attribution
 
 This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
