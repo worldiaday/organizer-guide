@@ -23,8 +23,8 @@ Guidebook created to help organizers of World IA Day events.
 
 ### Chapter 02 – Sponsors & Content Curation
 - [Find Sponsors for Your Celebration](find-sponsors.md)
-- Curate Content for a Celebration
-- Sponsorship Bonus Program
+- [Curate Content for a Celebration](curate-content.md)
+- [Sponsorship Bonus Program](sponsorship-bonus-program.md)
 
 ### Chapter 03 – Venue & A/V
 - Find a Venue
