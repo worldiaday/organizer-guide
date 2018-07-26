@@ -27,13 +27,16 @@ Guidebook created to help organizers of World IA Day events.
 - [Sponsorship Bonus Program](sponsorship-bonus-program.md)
 
 ### Chapter 03 – Venue & A/V
-- Find a Venue
-- Secure the Venue
-- Set up Audio/Video
+- [Find a Venue](find-venue.md)
+- [Secure the Venue Contract](secure-venue-contract.md)
+- [Audio/Video Setup Guide](audio-video-setup-guide.md)
 
 ### Chapter 04 – Marketing Your Celebration
+- [WIAD Common Language](common-language.md)
 - Promoting Celebrations Globally
 - Marketing Channels
+  - [Social Media Channels](social-media.md)
+  - [Updating the WIAD Website](update-website.md)
 - Promote Celebrations Locally
 - Social Media Guide
 
@@ -47,7 +50,7 @@ Guidebook created to help organizers of World IA Day events.
 - Emergency Fund Guidelines
 - Global Give-a-ways
 - Celebration Day!
-- Celebration Day Toolkit
+- Day-of Toolkit
 
 ### Chapter 07 – After the Celebration
 - Post-Celebration Reminders
