@@ -64,10 +64,10 @@ We have added basic information to your page to get you started.
 
 #### Things you can do:
 **Update date and time**
-The date and time is displayed on the Location page at this time. There is an issue created to update the Event Detail page design to have this information surfaced on the page.
+The date and time is displayed on the Location page at this time. There is an [issue](https://github.com/WorldIADay/website/issues/3) created to update the Event Detail page design to have this information surfaced on the page.
 
 **Add link for live streaming**
-
+This adds a button the Event detail page to the live streaming url.
 
 **Add registration link**
 Common event registration platforms include Eventbrite and Tito.
@@ -76,12 +76,13 @@ Common event registration platforms include Eventbrite and Tito.
 This may link to a Google Form or an attachment saved on Google Drive, Dropbox, etc.
 
 **Add link for Volunteer**
-This may link to a Google Form.
+This may link to a Google Form or to an email address.
 
 **Update Lead-In**
-Usually some kind of overview of how you envision the event and your event’s perspective on the global them.
+Usually some kind of overview of how you envision the event and your event’s perspective on the global theme.
 
 **Include venue, parking and transit**
+Provide instructions on how to access the venue and what the parking options are. Be sure to include accessible instructions for someone finding the venue for the first time. Refer to [Find a Venue](https://worldiaday.github.io/organizer-guide/find-venue.html) for resources.
 
 **Update your program or schedule**
 Provide a general overview if you want the “Program/Schedule” heading to display.
