@@ -37,8 +37,8 @@ Guidebook created to help organizers of World IA Day events.
 - Marketing Channels
   - [Social Media Channels](social-media.md)
   - [Updating the WIAD Website](update-website.md)
-- Promote Celebrations Locally
-- Social Media Guide
+- [Promote Celebrations Locally](marketing-locally.md)
+- [Social Media Guide](social-media-guide.md)
 
 ### Chapter 05 – Registration and Information Collection
 - Data Collection & Privacy
