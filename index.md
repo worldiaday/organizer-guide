@@ -41,7 +41,7 @@ Guidebook created to help organizers of World IA Day events.
 - [Social Media Guide](social-media-guide.md)
 
 ### Chapter 05 – Registration and Information Collection
-- Data Collection & Privacy
+- [Data Collection & Privacy](attendee-experience.md)
 - Prepare & Launch Registration
 - Preparing for Registration
 

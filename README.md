@@ -1,11 +1,9 @@
 ## World IA Day Organizer Guidebook
 Guidebook created to help organizers of World IA Day events.
 
-2017 edition, Amy Espinosa
-
-2018 edition, Sam Raddatz, Evgeni Minchev, and Grace Lau
-
-2019 edition, Grace Lau
+- 2017 edition, Amy Espinosa
+- 2018 edition, Sam Raddatz, Evgeni Minchev, and Grace Lau
+- 2019 edition, Grace Lau
 
 ## Table of Contents
 
@@ -18,26 +16,29 @@ Guidebook created to help organizers of World IA Day events.
 - Frequently Asked Questions
 - The Global Team
 - Accessing Email, Twitter, and Slack
-		
+
 ### Chapter 01 – Building a Team & Budget
 - [Recruit a Team](recruit-team.md)
 - [Create a Budget](create-budget.md)
 
 ### Chapter 02 – Sponsors & Content Curation
-- Find Sponsors for Your Celebration
-- Curate Content for a Celebration
+- [Find Sponsors for Your Celebration](find-sponsors.md)
+- [Curate Content for a Celebration](curate-content.md)
 - Sponsorship Bonus Program
 
 ### Chapter 03 – Venue & A/V
-- Find a Venue
-- Secure the Venue
-- Set up Audio/Video
+- [Find a Venue](find-venue.md)
+- [Secure the Venue](secure-venue-contract.md)
+- [Audio/Video Setup Guide](audio-video-setup-guide.md)
 
 ### Chapter 04 – Marketing Your Celebration
+- [WIAD Common Language](common-language.md)
 - Promoting Celebrations Globally
 - Marketing Channels
-- Promote Celebrations Locally
-- Social Media Guide
+  - [Social Media Channels](social-media.md)
+  - [Updating the WIAD Website](update-website.md)
+- [Promote Celebrations Locally](marketing-locally.md)
+- [Social Media Guide](social-media-guide.md)
 
 ### Chapter 05 – Registration and Information Collection
 - Data Collection & Privacy
@@ -64,6 +65,6 @@ Guidebook created to help organizers of World IA Day events.
 ### Contact
 
 Having questions or concerns? We’ll help you sort it out.
-- Slack: http://worldiaday.slack.com [Join](http://bit.ly/wiad-slack) 
+- Slack: http://worldiaday.slack.com [Join](http://bit.ly/wiad-slack)
 - Email: producer@worldiaday.org or global@worldiaday.org
 - Twitter: [@worldiaday](https://twitter.com/WorldIADay)
