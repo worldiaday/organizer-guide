@@ -40,15 +40,14 @@ Guidebook created to help organizers of World IA Day events.
 - [Promote Celebrations Locally](marketing-locally.md)
 - [Social Media Guide](social-media-guide.md)
 
-### Chapter 05 – Registration and Information Collection
-- [Data Collection & Privacy](attendee-experience.md)
-- Prepare & Launch Registration
-- Preparing for Registration
+### Chapter 05 – Registration and Data Collection
+- [Data Collection & Privacy](data-collection.md)
+- [Prepare & Launch Registration](registration.md)
 
 ### Chapter 06 – Emergency Funding, Celebration Day and Content Archival
 - Preparing for the Day-of Experience
-- Emergency Fund Guidelines
-- Global Give-a-ways
+- [Emergency Fund Guidelines](emergecy-fund.md)
+- [Global Give-a-ways](global-giveaways.md)
 - Celebration Day!
 - Day-of Toolkit
 
