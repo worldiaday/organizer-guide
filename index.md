@@ -48,8 +48,8 @@ Guidebook created to help organizers of World IA Day events.
 - Preparing for the Day-of Experience
 - [Emergency Fund Guidelines](emergecy-fund.md)
 - [Global Give-a-ways](global-giveaways.md)
-- Celebration Day!
-- Day-of Toolkit
+- [Celebration Day!](day-of.md)
+- [Celebration Day-of Toolkit](day-of-toolkit.md)
 
 ### Chapter 07 – After the Celebration
 - Post-Celebration Reminders

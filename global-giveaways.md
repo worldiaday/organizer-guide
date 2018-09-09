@@ -55,12 +55,12 @@ Draw a small shape or place a sticker on name badges to indicate which prize the
 Tape Post-it Notes under chair chairs with the name of the prize hidden on the back, out of view.
 
 * **Assign Numbers**
-Assign numbers to attendees as they check in and then use an online tool such as random.org to randomly generate a number based on a range of your choosing. Or you can do it the old fashioned way and pull the number out of a hat.
+Assign numbers to attendees as they check in and then use an online tool such as [random.org](https://www.random.org/) to randomly generate a number based on a range of your choosing. Or you can do it the old fashioned way and pull the number out of a hat.
 
 * **Play a Game**
 Depending on how you arrange your day and the number of attendees, you may be able to squeeze in a few fun games to keep the audience engaged and interacting with one another. Here are a few we thought might be worth considering:
-  * Simon Says is a great way to get people to practice listening skills. Be sure to explain the rules of the game and have some tricks up your sleeve to keep the game from dragging on too long.
-  * Conference Bingo can help attendees meet new people and learn new facts about each other. This takes a little bit of planning and is likely to produce a winner towards the end of your day.
+  * [Simon Says](http://www.wikihow.com/Play-Simon-Says) is a great way to get people to practice listening skills. Be sure to explain the rules of the game and have some tricks up your sleeve to keep the game from dragging on too long.
+  * [Conference Bingo](https://medium.com/@nekolaweb/what-i-learned-from-conference-bingo-51cdb088ab01#.d9imkpaws) can help attendees meet new people and learn new facts about each other. This takes a little bit of planning and is likely to produce a winner towards the end of your day.
 
 * **Use as a Survey Incentive**
 Many locations send out surveys after their celebration to obtain feedback and gain insight for improving the experience for attendees the following year. Why not use a couple give-a-ways to entice people to complete the survey?
