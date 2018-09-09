@@ -1,5 +1,5 @@
 # Global Give-a-ways
-Each year the Director of Development for the IA Institute (aka World IA Day Sponsorship Director) [email](sponsorship@worldiaday.org) works to secure in-kind donations for all of our locations. Some sponsors give us support annually and others give once and move on. Regardless, every year we work hard to get good stuff for you to pass on to your attendees.
+Each year the Director of Development for the IA Institute (aka World IA Day Sponsorship Director) [email](mailto:sponsorship@worldiaday.org) works to secure in-kind donations for all of our locations. Some sponsors give us support annually and others give once and move on. Regardless, every year we work hard to get good stuff for you to pass on to your attendees.
 
 Below we have formulated answers to questions we are often asked. If you do not find the answer you are looking for here, we encourage you to reach out anytime by [sending us an email](mailto:global@worldiaday.org) or [messaging us on Slack](https://worldiaday.slack.com/).
 
@@ -41,28 +41,28 @@ We will also provide a template that can be printed out and used during your cel
 #### Ideas to randomly select your winners
 From giving a prize to the first person who checks in or to the first question, organizers have shared some creative ways to distribute these items. So we are sharing a few with you.
 
-* The Raffle
+* **The Raffle**
 This is a popular way to give away items to lucky winners but it can also leave you susceptible to pulling orphaned tickets for what seems like an eternity. To ensure you are only picking raffle tickets held by people in the room, you may want to collect tickets just before you plan to raffle the item. Names of checked-in attendees work too if you do not have raffle tickets handy.
 
 Here are a few suggestions:
-Kick-off the day with a raffle. Everyone is likely to be there.
-Collect tickets after lunch as people return to their seats
-Collect tickets before you start or once you conclude your workshop
+- Kick-off the day with a raffle. Everyone is likely to be there.
+- Collect tickets after lunch as people return to their seats
+- Collect tickets before you start or once you conclude your workshop
 
-* Surprise Winners
+* **Surprise Winners**
 It can be fun to surprise attendees with inconspicuous cues placed on name badges or under chairs to announce they have won a prize. A few common ways to do this include:
 Draw a small shape or place a sticker on name badges to indicate which prize they will win.
 Tape Post-it Notes under chair chairs with the name of the prize hidden on the back, out of view.
 
-* Assign Numbers
+* **Assign Numbers**
 Assign numbers to attendees as they check in and then use an online tool such as random.org to randomly generate a number based on a range of your choosing. Or you can do it the old fashioned way and pull the number out of a hat.
 
-* Play a Game
+* **Play a Game**
 Depending on how you arrange your day and the number of attendees, you may be able to squeeze in a few fun games to keep the audience engaged and interacting with one another. Here are a few we thought might be worth considering:
   * Simon Says is a great way to get people to practice listening skills. Be sure to explain the rules of the game and have some tricks up your sleeve to keep the game from dragging on too long.
-Conference Bingo can help attendees meet new people and learn new facts about each other. This takes a little bit of planning and is likely to produce a winner towards the end of your day.
+  * Conference Bingo can help attendees meet new people and learn new facts about each other. This takes a little bit of planning and is likely to produce a winner towards the end of your day.
 
-* Use as a Survey Incentive
+* **Use as a Survey Incentive**
 Many locations send out surveys after their celebration to obtain feedback and gain insight for improving the experience for attendees the following year. Why not use a couple give-a-ways to entice people to complete the survey?
 
 Some suggestions include:
