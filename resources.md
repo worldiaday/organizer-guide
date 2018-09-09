@@ -1,6 +1,6 @@
 # Resources
 
-## WIAD Logos
+## Logos
 
 Add these to your existing promotional materials and make it clear you’re supporting the World IA Day community.
 

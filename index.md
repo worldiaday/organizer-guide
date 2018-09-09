@@ -58,8 +58,8 @@ Guidebook created to help organizers of World IA Day events.
 - Brand Guidelines
 - Example Budgets
 - Stickers
-- Presentation Templates
-
+- [Presentation Templates](resources.md#slides)
+- [Logos](resources.md#logos)
 
 ### Contact
 
