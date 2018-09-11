@@ -52,14 +52,20 @@ Guidebook created to help organizers of World IA Day events.
 - [Celebration Day-of Toolkit](day-of-toolkit.md)
 
 ### Chapter 07 – After the Celebration
-- Post-Celebration Reminders
+- [Post-Celebration Reminders](post-event.md)
 
 ### Resources
+
+**Assets**
+- [Logos](resources.md#logos)
 - Brand Guidelines
-- Example Budgets
 - Stickers
 - [Presentation Templates](resources.md#slides)
-- [Logos](resources.md#logos)
+
+**Templates**
+- Example Budgets
+- Example Sponsorship Sheets
+
 
 ### Contact
 
