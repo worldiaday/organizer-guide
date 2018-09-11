@@ -18,6 +18,14 @@ Add these to your existing promotional materials and make it clear you’re supp
 | Greyscale on dark background | 2010 × 1791 | (branding/WIAD19/WIAD19 Logos/wiad19_secondary_greyscale_dark.png)|
 | Color on white background | (branding/WIAD19/WIAD19 Logos/wiad19logos_secondary_color.png)|
 
+## Templates
+- Example Budgets
+- Example Sponsorship Sheets
+- Planning Templates
+  - [Google Sheets](https://docs.google.com/spreadsheets/d/1UhHgN5sBw4mg1OFH4Om9L_H7WkYimvYdTvfjwkuryj0/edit?usp=sharing)
+  - [Airtable](https://airtable.com/shr9Duzt4BGyMnFqB)
+  - [Trello](https://trello.com/b/G89JhAqo)
+
 ## Presentation Decks
 
 [Keynote](branding/WIAD19/SLIDE DECKS/WIAD19 Speaker _ Presenter Deck.key)
