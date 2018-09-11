@@ -97,8 +97,8 @@ Feel free to reach out for assistance: av@worldiaday.org
 
 
 ## Definitions
-|Term| Definition|
------|-----------
+|Term| Definition |
+|-----|----------- |
 |HDMI | a standard for connecting high-definition video devices.|
 |DVI | (for older monitors) Digital Visual Interface (DVI) is a video display interface developed by the Digital Display Working Group (DDWG).|
 |VGA | (for older monitors) A standard for defining colour display screens for computers.|
