@@ -1,8 +1,15 @@
 # Resources
 
+Contents
+- Logos
+- Templates
+-
+
 ## Logos
 
 Add these to your existing promotional materials and make it clear you’re supporting the World IA Day community.
+
+Be sure to add your location name to the WIAD logo. Refer to the [brand styleguide](branding/WIAD17/WIAD17 - Brand guidelines.pdf). Note that these guidelijes have not changed since 2017.
 
 - All the grayscale logos
   - [PDF](branding/WIAD19/WIAD19 Logos/wiad19logosgrayscaleW.pdf)
@@ -21,8 +28,8 @@ Primary logo includes the logo and text "World IA Day"
 ### Secondary
 Secondary logo includes the logo and abbreviated text "WIAD"
 ![wiad19logos_secondary_color](branding/WIAD19/WIAD19 Logos/wiad19logos_secondary_color.png)
-- [Greyscale on dark background](branding/WIAD19/WIAD19 Logos/wiad19_secondary_greyscale_dark.png)|
-- [Color on white background](branding/WIAD19/WIAD19 Logos/wiad19logos_secondary_color.png)|
+- [Greyscale on dark background](branding/WIAD19/WIAD19 Logos/wiad19_secondary_greyscale_dark.png)
+- [Color on white background](branding/WIAD19/WIAD19 Logos/wiad19logos_secondary_color.png)
 
 ### Text
 ![wiad19logo_text](branding/WIAD19/WIAD19 Logos/wiad19logos_text_color.png)
@@ -37,30 +44,49 @@ Secondary logo includes the logo and abbreviated text "WIAD"
 - [Trello](https://trello.com/b/G89JhAqo)
 
 ### Budgeting
-- Budget Template ([XLSX](resources/templates/Budget Template.xlsx), [Google Sheets](https://drive.google.com/open?id=1xzoZakOEnPWtNcXJGPXyeMr4FBkduF_fV-FPRmWLHOA)]
+- [XLSX](resources/templates/Budget Template.xlsx)
+- [Google Sheets](https://drive.google.com/open?id=1xzoZakOEnPWtNcXJGPXyeMr4FBkduF_fV-FPRmWLHOA)
 
 ### Sponsorship
-- Local Sponsor Agreement Template ([DOCX](resources/templates/Sponsorship/Local Sponsor Agreement Template.docx), ([Google Docs](https://drive.google.com/open?id=1sLRu-6qQ8ayuO58EVBRcrQEpnpy6aAMmOuZqDNEa5KA))
-- Local Sponsor Invoice Template ([Google Docs](https://drive.google.com/open?id=1vyTt7ob5eDKWHPVeeJGFl1YZOycsyEn-b9jo-3iTMSQ))
+- Local Sponsor Agreement Template
+  - [DOCX](resources/templates/Sponsorship/Local Sponsor Agreement Template.docx)
+  - [Google Docs](https://drive.google.com/open?id=1sLRu-6qQ8ayuO58EVBRcrQEpnpy6aAMmOuZqDNEa5KA)
+- Local Sponsor Invoice Template
+  - [DOCX](resources/templates/Sponsorship/Local Sponsor Invoice Template.docx)
+  - [Google Docs](https://drive.google.com/open?id=1vyTt7ob5eDKWHPVeeJGFl1YZOycsyEn-b9jo-3iTMSQ))
+- Shared from locations
+    - [Postcard Hyderabad 2015](resources/shared/sponsorship/Postcard Hyderabad 2015.pdf)
+    - [Sponsor Email London](resources/shared/sponsorship/Sponsor Email London.docx)
+    - [Sponsor Letter Boston 2016](resources/shared/sponsorship/Sponsor Letter Boston 2016.pdf)
+    - [Sponsor Email Zurich 2015, 2 versions](resources/shared/sponsorship/Sponsor Letter Zurich 2015-2 versions.pdf)
+    - [Sponsor Levels Milwaukee 2016](resources/shared/sponsorship/Sponsor Levels Milwaukee 2016.pdf)
+    - [Sponsor Levels San Francisco 2016](resources/shared/sponsorship/Sponsor Levels San Francisco 2016.png)
+    - [Sponsorship Level Tampa Bay 2015](resources/shared/sponsorship/Sponsorship Levels Tampa Bay 2015.png)
+    - [Sponsorship Levels Zurich 2016](resources/shared/sponsorship/Sponsorship Levels Zurich 2016.docx)
+
+### Stickers
+![stickers preview](resources/shared/stickers/WIAD Zürich_ Round Sticker Template/stickers_preview.png)
+- WIAD Zurich Round Sticker Templates
+  - [Illustrator_cs4, AI file](resources/shared/stickers/WIAD Zürich_ Round Sticker Template/stickers_cs4.ai)
+  - [Illustrator, AI file](resources/shared/stickers/WIAD Zürich_ Round Sticker Template/stickers.ai)
 
 ### Social Media Timeline
 - [Excel XLSX](resources/templates/Social Media Timeline Template.xlsx)
 - [Google Sheets](https://docs.google.com/spreadsheets/d/1CUj-dDC5GT_jNJiF0Ij9YwjespKvM_pVVtdpxL_Xjqk/edit?usp=sharing)
 
-## Presentation Decks
-
-[Keynote](resources/templates/Speakers/WIAD19/WIAD19 Speaker _ Presenter Deck.key)
-[Powerpoint](resources/templates/Speakers/WIAD19/WIAD19 Speaker _ Presenter Deck.pptx)
-
-## Social Media Banners
+### Presentation Decks
+Can be used for speakers
+- [Keynote](resources/templates/Speakers/WIAD19/WIAD19 Speaker _ Presenter Deck.key)
+- [Powerpoint](resources/templates/Speakers/WIAD19/WIAD19 Speaker _ Presenter Deck.pptx)
+- [Google Slides](https://docs.google.com/presentation/d/1731ppMLXU9RWSaIsqNwo9BAzLCzerRTyf35tcrYtqUk/edit?usp=sharing)
 
 ### Speaker Badges
-
+Used in social media
 - [PDF](resources/templates/Speakers/WIAD19/WIAD19-SOCIAL_SQUARE_SPEAKER.pdf)
 - [Sketch](resources/templates/Speakers/WIAD19/WIAD19-SOCIAL_SQUARE_SPEAKER.sketch)
 - [EPS](resources/templates/Speakers/WIAD19/WIAD19-SOCIAL_SQUARE_SPEAKER.eps)
 
-## Name Tags
+### Name Tags
 - [EPS](resources/templates/WIAD_NAMETAGS.eps)
 - [Canva] (https://www.canva.com/design/DADCyBluRmA/share?role=EDITOR&token=0ayaURX7irmq6QkSlXZrlQ&utm_content=DADCyBluRmA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
