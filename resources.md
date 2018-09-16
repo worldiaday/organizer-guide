@@ -4,16 +4,30 @@
 
 Add these to your existing promotional materials and make it clear you’re supporting the World IA Day community.
 
-### Primary
+- All the grayscale logos
+  - [PDF](branding/WIAD19/WIAD19 Logos/wiad19logosgrayscaleW.pdf)
+  - [Sketch](branding/WIAD19/WIAD19 Logos/wiad19logosgrayscaleW.sketch)
 
+- All the color logos
+  - [PDF](branding/WIAD19/WIAD19 Logos/wiad19logoscolorW.pdf)
+  - [Sketch](branding/WIAD19/WIAD19 Logos/wiad19logoscolorW.sketch)
+
+### Primary
+Primary logo includes the logo and text "World IA Day"
 ![wiad19logos_primary_color](branding/WIAD19/WIAD19 Logos/wiad19logos_primary_color.png)
-| PNG Color on transparent  | (branding/WIAD19/WIAD19 Logos/wiad19logos_primary_color.png)  |
-| PNG Grayscale on transparent  | (branding/WIAD19/WIAD19 Logos/wiad19logos_primary_greyscale.png) |
+- [PNG Color on transparent](branding/WIAD19/WIAD19 Logos/wiad19logos_primary_color.png)
+- [PNG Grayscale on transparent](branding/WIAD19/WIAD19 Logos/wiad19logos_primary_greyscale.png)
 
 ### Secondary
+Secondary logo includes the logo and abbreviated text "WIAD"
 ![wiad19logos_secondary_color](branding/WIAD19/WIAD19 Logos/wiad19logos_secondary_color.png)
-| Greyscale on dark background | 2010 × 1791 | (branding/WIAD19/WIAD19 Logos/wiad19_secondary_greyscale_dark.png)|
-| Color on white background | (branding/WIAD19/WIAD19 Logos/wiad19logos_secondary_color.png)|
+- [Greyscale on dark background](branding/WIAD19/WIAD19 Logos/wiad19_secondary_greyscale_dark.png)|
+- [Color on white background](branding/WIAD19/WIAD19 Logos/wiad19logos_secondary_color.png)|
+
+### Text
+![wiad19logo_text](branding/WIAD19/WIAD19 Logos/wiad19logos_text_color.png)
+- [Greyscale text logo](branding/WIAD19/WIAD19 Logos/wiad19logos_text-logo_greyscale.png)
+- [Color text logo](branding/WIAD19/WIAD19 Logos/wiad19logos_text_color.png)
 
 ## Templates
 
