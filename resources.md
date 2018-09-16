@@ -65,10 +65,10 @@ Secondary logo includes the logo and abbreviated text "WIAD"
     - [Sponsorship Levels Zurich 2016](resources/shared/sponsorship/Sponsorship Levels Zurich 2016.docx)
 
 ### Stickers
-![stickers preview](resources/shared/stickers/WIAD Zürich_ Round Sticker Template/stickers_preview.png)
+![stickers preview](https://drive.google.com/open?id=0BxSSYaHvRUf1UVRCazJUR2g1LXM)
 - WIAD Zurich Round Sticker Templates
-  - [Illustrator_cs4, AI file](resources/shared/stickers/WIAD Zürich_ Round Sticker Template/stickers_cs4.ai)
-  - [Illustrator, AI file](resources/shared/stickers/WIAD Zürich_ Round Sticker Template/stickers.ai)
+  - [Illustrator_cs4, AI file](https://drive.google.com/open?id=0BxSSYaHvRUf1YUhGQzRTVTJVYTA)
+  - [Illustrator, AI file](https://drive.google.com/open?id=0BxSSYaHvRUf1elQtUk5CaGh3QVU)
 
 ### Social Media Timeline
 - [Excel XLSX](resources/templates/Social Media Timeline Template.xlsx)
