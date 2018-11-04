@@ -40,7 +40,7 @@ Secondary logo includes the logo and abbreviated text "WIAD"
 - [Greyscale text logo](branding/WIAD19/WIAD19 Logos/wiad19logos_text-logo_greyscale.png)
 - [Color text logo](branding/WIAD19/WIAD19 Logos/wiad19logos_text_color.png)
 
-## Theme Illustrations
+## WIAD19 Theme Illustrations
 For WIAD19, we enlisted [Sketch Squad](https://www.facebook.com/SketchSquad123/), a student organization at Purdue University, to create an illustration that visualizes the global theme "Design for Difference".
 
 [Download the files for WIAD19 use](branding/WIAD19/WIAD19_theme_illustration.zip)
