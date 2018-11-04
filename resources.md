@@ -1,9 +1,13 @@
 # Resources
 
-Contents
+The following resources have been updated for WIAD19.
+
+**Contents**
 - Logos
+- Theme Illustrations
 - Templates
-- Theme Illustration
+
+---
 
 ## Logos
 
