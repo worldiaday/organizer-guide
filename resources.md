@@ -3,7 +3,7 @@
 Contents
 - Logos
 - Templates
--
+- Theme Illustration
 
 ## Logos
 
@@ -35,6 +35,19 @@ Secondary logo includes the logo and abbreviated text "WIAD"
 ![wiad19logo_text](branding/WIAD19/WIAD19 Logos/wiad19logos_text_color.png)
 - [Greyscale text logo](branding/WIAD19/WIAD19 Logos/wiad19logos_text-logo_greyscale.png)
 - [Color text logo](branding/WIAD19/WIAD19 Logos/wiad19logos_text_color.png)
+
+## Theme Illustrations
+For WIAD19, we enlisted [Sketch Squad](https://www.facebook.com/SketchSquad123/), a student organization at Purdue University, to create an illustration that visualizes the global theme "Design for Difference".
+
+[Download the files for WIAD19 use](branding/WIAD19/WIAD19_theme_illustration.zip)
+- [JPG](branding/WIAD19/WIAD19_theme_illustration/WIAD19_designfordifference.jpg)
+- [PNG](branding/WIAD19/WIAD19_theme_illustration/WIAD19_designfordifference.png)
+- [PSD](branding/WIAD19/WIAD19_theme_illustration/WIAD19_designfordifference.psd)
+- [SVG](branding/WIAD19/WIAD19_theme_illustration/WIAD19_designfordifference.svg)
+- [PDF](branding/WIAD19/WIAD19_theme_illustration/WIAD19_designfordifference.pdf)
+
+![WIAD19_theme_illustration created by SketchSquad](branding/WIAD19/WIAD19_theme_illustration/WIAD19_designfordifference.png)
+
 
 ## Templates
 
@@ -91,4 +104,4 @@ Used in social media
 - [Canva] (https://www.canva.com/design/DADCyBluRmA/share?role=EDITOR&token=0ayaURX7irmq6QkSlXZrlQ&utm_content=DADCyBluRmA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 <div class="canva-embed" data-height-ratio="0.5882" data-design-id="DADCyBluRmA" style="padding:58.81999999999999% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div>
-<script async src="https://sdk.canva.com/v1/embed.js"></script><a href="https://www.canva.com/design/DADCyBluRmA/view?utm_content=DADCyBluRmA&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank">WIAD19 Name Tag</a> by <a href="https://www.canva.com/producer95?utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank">WIAD Global Executive Producer</a>
+<script async src="https://sdk.canva.com/v1/embed.js"></script>< a href="https://www.canva.com/design/DADCyBluRmA/view?utm_content=DADCyBluRmA&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank">WIAD19 Name Tag</a> by <a href="https://www.canva.com/producer95?utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank">WIAD Global Executive Producer</a>
