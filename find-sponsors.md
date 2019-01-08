@@ -12,7 +12,7 @@ A financial sponsorship, as the name indicates, is when a company or organizatio
 
 > TIP: When asking for sponsorship you should clearly communicate what you will give the sponsor in return for their donation. For example, “We would love for our celebration to be held at [location] and in return we will promote your company with [X number of tweets, brand recognition, insert other local sponsor benefits here].’
 
-## Targeting Sponsors
+## Finding Sponsors Leads
 
 When we design a product or service, it is important to understand our target demographic. Sponsorship is no different. Whether you are looking for a donation from an educational institution, a small business, a large corporation or a government entity it is important to understand the needs of your target sponsors and what they value. We have provided some [personas](https://worldiaday.github.io/personas/) that you are free to use to get your team thinking about different types of sponsors.
 
@@ -132,7 +132,7 @@ Here are a few steps we recommended as you secure sponsors:
 Many sponsors will not make a donation to an individual person. If you do not have a way to accept money from your local sponsor, the IA Institute can help. We offer two ways for sponsors to donate funds to your location. The sponsor can: 1) submit a donation through PayPal or 2) mail a check to the IA Institute.
 Below we provide instructions for both of these options.
 
-> NOTE: We typically pay out incoming donations on the 15th and 30th of each month. We will keep an accounting ledger that will be available to you as we process transactions on your location’s behalf.  If you have a time sensitive situation which requires you to receive the donation sooner, please contact treasury@iainstitute.org.
+> NOTE: The IA Institute DOES NOT cover fees incurred for donations (Paypal, Wire transfer fees, etc.) so you may want to ensure your donations cover these costs. We pay out incoming donations on the 15th and 30th of each month. We will keep an accounting ledger that will be available to you as we process transactions on your location’s behalf. If you have a time sensitive situation which requires you to receive the donation sooner, please contact treasury@iainstitute.org.
 
 ### Submit a donation using Paypal.
 
@@ -163,7 +163,16 @@ Tampa, FL 33647
 > NOTE: This is a very important step. In the past, one company has sponsored multiple locations. If we do not have detailed information on where to send the donation, it may impact the amount of time it takes for you to receive your money.
 
 ### Receive your sponsor’s donation from the IA Institute.
-Contact us at treasury@iainstitute.org and provide the following information: sponsor name, amount of donation, date sent, the Paypal confirmation number or check number and which payment method below you would like us to use:
+Contact us at treasury@iainstitute.org and provide the following information: 
+- sponsor name
+- amount of donation
+- date sent
+- the Paypal confirmation number or check number 
+- which payment method below you would like us to use:
+  -- IAI pays vendor directly
+  -- IAI sends money directly to your PayPal account
+  -- IAI sends money directly to your bank account
+  -- IAI mails a check directly to you
 
 #### The IA Institute pays the vendor directly.
 Provide us with the vendor invoice(s) to pay.
