@@ -101,14 +101,14 @@ Finalize your sponsor prospectus and get ready to reach out to your target list.
 4. Don’t forget to attach the sponsor prospectus you created for your location.
 
 Examples of sponsorship prospectus:
-- [Postcard Hyderabad 2015](/resources/sponsorship/Postcard Hyderabad 2015.pdf)
-- [Sponsor Email London](/resources/sponsorship/Sponsor Email London.docx)
-- [Sponsor Email Boston 2016](/resources/sponsorship/Sponsor Letter Boston 2016.pdf)
-- [Sponsor Email Zurich 2015](/resources/sponsorship/Sponsor Letter Zurich 2015-2 versions.pdf)
-- [Sponsor Levels Milwaukee 2016](/resources/sponsorship/Sponsor Levels Milwaukee 2016.pdf)
-- [Sponsor Levels San Francisco 2016](/resources/sponsorship/Sponsor Levels San Francisco 2016.png)
-- [Sponsorship Levels Tampa Bay 2015](/resources/sponsorship/Sponsorship Levels Tampa Bay 2015.png)
-- [Sponsorship Levels Zurich 2016](/resources/sponsorship/Sponsorship Levels Zurich 2016.docx)
+- [Postcard Hyderabad 2015](https://github.com/WorldIADay/organizer-guide/blob/master/resources/shared/sponsorship/Postcard%20Hyderabad%202015.pdf)
+- [Sponsor Email London](https://github.com/WorldIADay/organizer-guide/blob/master/resources/shared/sponsorship/Sponsor%20Email%20London.docx)
+- [Sponsor Email Boston 2016](https://github.com/WorldIADay/organizer-guide/blob/master/resources/shared/sponsorship/Sponsor%20Letter%20Boston%202016.pdf)
+- [Sponsor Email Zurich 2015](https://github.com/WorldIADay/organizer-guide/blob/master/resources/shared/sponsorship/Sponsor%20Letter%20Zurich%202015-2%20versions.pdf)
+- [Sponsor Levels Milwaukee 2016](https://github.com/WorldIADay/organizer-guide/blob/master/resources/shared/sponsorship/Sponsor%20Levels%20Milwaukee%202016.pdf)
+- [Sponsor Levels San Francisco 2016](https://github.com/WorldIADay/organizer-guide/blob/master/resources/shared/sponsorship/Sponsor%20Levels%20San%20Francisco%202016.png)
+- [Sponsorship Levels Tampa Bay 2015](https://github.com/WorldIADay/organizer-guide/blob/master/resources/shared/sponsorship/Sponsorship%20Levels%20Tampa%20Bay%202015.png)
+- [Sponsorship Levels Zurich 2016](https://github.com/WorldIADay/organizer-guide/blob/master/resources/shared/sponsorship/Sponsorship%20Levels%20Zurich%202016.docx)
 
 ## Close the deal.
 Sponsorship is a business arrangement. It is important to have an agreement in writing so that both parties understand what to expect and are clear on what will be delivered. We have provided a [sponsorship agreement (Google Doc)](https://docs.google.com/document/d/1sLRu-6qQ8ayuO58EVBRcrQEpnpy6aAMmOuZqDNEa5KA/edit?usp=sharing) and [sponsorship invoice](https://docs.google.com/document/d/1vyTt7ob5eDKWHPVeeJGFl1YZOycsyEn-b9jo-3iTMSQ/edit?usp=sharing) templates for you to get started.
@@ -169,21 +169,18 @@ Contact us at treasury@iainstitute.org and provide the following information:
 - date sent
 - the Paypal confirmation number or check number 
 - which payment method below you would like us to use:
-  -- IAI pays vendor directly
-  -- IAI sends money directly to your PayPal account
-  -- IAI sends money directly to your bank account
-  -- IAI mails a check directly to you
+    - IAI pays vendor directly
+    - IAI sends money directly to your PayPal account
+    - IAI sends money directly to your bank account
+    - IAI mails a check directly to you
 
 #### The IA Institute pays the vendor directly.
-Provide us with the vendor invoice(s) to pay.
-
-Email invoice(s) to treasury@iainstitute.org.
-
-Be sure the invoice has payment details such as mailing address for payment, amount, etc.
+- Provide us with the vendor invoice(s) to pay.
+- Email invoice(s) to treasury@iainstitute.org.
+- Be sure the invoice has payment details such as mailing address for payment, amount, etc.
 
 #### The IA Institute sends money directly to your Paypal account.
-Provide us with your Paypal account details
-The IAI will no longer cover PayPal fees so you will have to take this into account when accepting donations and disbursements.
+Provide us with your Paypal account details. The IAI will no longer cover PayPal fees so you will have to take this into account when accepting donations and disbursements.
 
 #### The IA Institute sends money directly to your bank account.
 Provide us with:
