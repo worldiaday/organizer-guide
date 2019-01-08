@@ -153,9 +153,8 @@ We will accept checks made out to the IA Institute. Once deposited, the donation
 
 1. Mail check to:
 Information Architecture Institute
-c/o Amy Espinosa, Treasurer
-6002 N 9th Street
-Tampa, Florida 33604, USA
+PO Box 9095
+Tampa, FL 33647
 
 2. In the memo section, note the location receiving the money (e.g. WIAD + `locationname`).
 
@@ -175,6 +174,7 @@ Be sure the invoice has payment details such as mailing address for payment, amo
 
 #### The IA Institute sends money directly to your Paypal account.
 Provide us with your Paypal account details
+The IAI will no longer cover PayPal fees so you will have to take this into account when accepting donations and disbursements.
 
 #### The IA Institute sends money directly to your bank account.
 Provide us with:
