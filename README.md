@@ -8,13 +8,14 @@ Guidebook created to help organizers of World IA Day events.
 ## Table of Contents
 
 ### Chapter 00 – Welcome
-- [Welcome To Our Community](index.md)
+- [Welcome To Our Community](welcome.md)
 - [Our Driving Principles](driving-principles.md)
 - [Our Code of Conduct](code-of-conduct.md)
 - [Our Privacy Policy](privacy-policy.md)
 - [Our Guidelines](guidelines.md)
+- [Recommended Planning Timeline](recommended-planning-timeline.md)
 - Frequently Asked Questions
-- The Global Team
+- [The Global Team](global-team.md)
 - Accessing Email, Twitter, and Slack
 
 ### Chapter 01 – Building a Team & Budget
@@ -24,7 +25,7 @@ Guidebook created to help organizers of World IA Day events.
 ### Chapter 02 – Sponsors & Content Curation
 - [Find Sponsors for Your Celebration](find-sponsors.md)
 - [Curate Content for a Celebration](curate-content.md)
-- Sponsorship Bonus Program
+- [Sponsorship Bonus Program](sponsorship-bonus-program.md)
 
 ### Chapter 03 – Venue & A/V
 - [Find a Venue](find-venue.md)
@@ -41,19 +42,18 @@ Guidebook created to help organizers of World IA Day events.
 - [Social Media Guide](social-media-guide.md)
 
 ### Chapter 05 – Registration and Information Collection
-- Data Collection & Privacy
-- Prepare & Launch Registration
-- Preparing for Registration
+- [Data Collection & Privacy](data-collection.md)
+- [Prepare & Launch Registration](registration.md)
 
 ### Chapter 06 – Emergency Funding, Celebration Day and Content Archival
 - Preparing for the Day-of Experience
-- Emergency Fund Guidelines
-- Global Give-a-ways
-- Celebration Day!
-- Celebration Day Toolkit
+- [Emergency Fund Guidelines](emergency-fund.md)
+- [Global Give-a-ways](global-giveaways.md)
+- [Celebration Day!](day-of.md)
+- [Celebration Day Toolkit](day-of-toolkit.md)
 
 ### Chapter 07 – After the Celebration
-- Post-Celebration Reminders
+- [Post-Celebration Reminders](post-event.md)
 
 ### Resources
 - Brand Guidelines
