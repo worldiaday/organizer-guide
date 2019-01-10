@@ -5,10 +5,10 @@ We are here to support you every step of the way and have created this guidebook
 
 Every year our team strives to make improvements in an effort to better support each of our location organizers. We are always open to feedback and suggestions to help improve your experience. If you find our guidebook helpful, or if you think something is missing, please get in touch with us at suggestions@worldiaday.org. We’d like to hear from you!
 
-- (Driving Principles)[driving-principles.md]
-- (Code of Conduct)[code-of-conduct.md]
-- (Privacy Policy)[privacy-policy.md]
-- (Guidelines)[guidelines.md]
+- [Driving Principles](driving-principles.md)
+- [Code of Conduct](code-of-conduct.md)
+- [Privacy Policy](privacy-policy.md)
+- [Guidelines](guidelines.md)
 
 ## Frequently Asked Questions
 Please see our FAQ on the WorldIADay.org Call for Locations page for answer to many of your questions. A few more are covered here:
