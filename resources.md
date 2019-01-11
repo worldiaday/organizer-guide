@@ -82,7 +82,7 @@ For WIAD19, we enlisted [Sketch Squad](https://www.facebook.com/SketchSquad123/)
     - [Sponsorship Levels Zurich 2016](resources/shared/sponsorship/Sponsorship-Levels-Zurich-2016.docx)
 
 ### Stickers
-![stickers preview](resources/shared/stickers/WIAD-Zürich-Round-Sticker-Template/stickers_preview.png)
+![stickers preview](resources/shared/stickers/WIAD-Z%C3%BCrich-Round-Sticker-Template/stickers_preview.png)
 - WIAD Zurich Round Sticker Templates
   - [Illustrator_cs4, AI file](https://drive.google.com/open?id=0BxSSYaHvRUf1YUhGQzRTVTJVYTA)
   - [Illustrator, AI file](https://drive.google.com/open?id=0BxSSYaHvRUf1elQtUk5CaGh3QVU)
