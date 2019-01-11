@@ -4,7 +4,7 @@ The following resources have been updated for WIAD19.
 
 **Contents**
 - [Logos](#logos)
-- [WIAD19 Theme Illustrations](#WIAD19_Theme_illustrations)
+- [WIAD19 Theme Illustrations](#wiad19-theme-illustrations)
 - [Templates](#templates)
 
 ---

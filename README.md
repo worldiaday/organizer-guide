@@ -58,7 +58,7 @@ Guidebook created to help organizers of World IA Day events.
 ### [Resources](resources.md)
 - [Brand Guidelines](branding/WIAD17/WIAD17-Brand-guidelines.pdf)
 - [Logos](resources.md#logos)
-- [WIAD19 Illustration](resources.md#WIAD19_Theme_illustrations)
+- [WIAD19 Illustration](resources.md#wiad19-theme-illustrations)
 - [Templates](resources.md#templates)
 
 
