@@ -13,7 +13,7 @@ The following resources have been updated for WIAD19.
 
 Add these to your existing promotional materials and make it clear you’re supporting the World IA Day community.
 
-Be sure to add your location name to the WIAD logo. Refer to the [brand styleguide](branding/WIAD17/WIAD17 - Brand guidelines.pdf). Note that these guidelijes have not changed since 2017.
+Be sure to add your location name to the WIAD logo. Refer to the [brand styleguide](branding/WIAD17/WIAD17-Brand-guidelines.pdf). Note that these guidelines have not changed since 2017.
 
 - All the grayscale logos
   - [PDF](branding/WIAD19/WIAD19 Logos/wiad19logosgrayscaleW.pdf)
