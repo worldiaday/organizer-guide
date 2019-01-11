@@ -55,11 +55,11 @@ Guidebook created to help organizers of World IA Day events.
 ### Chapter 07 – After the Celebration
 - [Post-Celebration Reminders](post-event.md)
 
-### Resources
-- Brand Guidelines
-- Example Budgets
-- Stickers
-- Presentation Templates
+### [Resources](resources.md)
+- [Brand Guidelines](branding/WIAD17/WIAD17-Brand-guidelines.pdf)
+- [Logos](resources.md#logos)
+- [WIAD19 Illustration](resources.md#wiad19-theme-illustrations)
+- [Templates](resources.md#templates)
 
 
 ### Contact
