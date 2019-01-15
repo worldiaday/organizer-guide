@@ -26,19 +26,37 @@ Be sure to add your location name to the WIAD logo. Refer to the [brand stylegui
 ### Primary
 Primary logo includes the logo and text "World IA Day"
 ![wiad19logos_primary_color](branding/WIAD19/WIAD19-Logos/wiad19logos_primary_color.png)
-- [PNG Color on transparent](branding/WIAD19/WIAD19-Logos/wiad19logos_primary_color.png)
-- [PNG Grayscale on transparent](branding/WIAD19/WIAD19-Logos/wiad19logos_primary_greyscale.png)
+
+- **Color on transparent**
+	- [PNG](branding/WIAD19/WIAD19-Logos/wiad19logos_primary_color.png)
+	- [SVG](branding/WIAD19/WIAD19-Logos/wiad19logos_primary_color.svg)
+- **Grayscale on transparent**
+	- [PNG](branding/WIAD19/WIAD19-Logos/wiad19logos_primary_greyscale.png)
+	- [SVG](branding/WIAD19/WIAD19-Logos/wiad19logos_primary_greyscale.svg)
 
 ### Secondary
 Secondary logo includes the logo and abbreviated text "WIAD"
 ![wiad19logos_secondary_color](branding/WIAD19/WIAD19-Logos/wiad19logos_secondary_color.png)
-- [Greyscale on dark background](branding/WIAD19/WIAD19-Logos/wiad19_secondary_greyscale_dark.png)
-- [Color on white background](branding/WIAD19/WIAD19-Logos/wiad19logos_secondary_color.png)
+
+- **Color on white** background
+	- [PNG](branding/WIAD19/WIAD19-Logos/wiad19logos_secondary_color.png)
+	- [SVG](branding/WIAD19/WIAD19-Logos/wiad19logos_secondary_color.svg)
+- **Greyscale on white** background
+	- [PNG](branding/WIAD19/WIAD19-Logos/wiad19logos_secondary_greyscale.png)
+	- [SVG](branding/WIAD19/WIAD19-Logos/wiad19_secondary_greyscale.svg)
+- **Greyscale on dark** background
+	- [PNG](branding/WIAD19/WIAD19-Logos/wiad19logos_secondary_greyscale_dark.png)
+	- [SVG](branding/WIAD19/WIAD19-Logos/wiad19_secondary_greyscale_dark.svg)
 
 ### Text
 ![wiad19logo_text](branding/WIAD19/WIAD19-Logos/wiad19logos_text_color.png)
-- [Greyscale text logo](branding/WIAD19/WIAD19-Logos/wiad19logos_text-logo_greyscale.png)
-- [Color text logo](branding/WIAD19/WIAD19-Logos/wiad19logos_text_color.png)
+
+- **Color text logo**
+	- [PNG](branding/WIAD19/WIAD19-Logos/wiad19logos_text_color.png)
+	- [SVG](branding/WIAD19/WIAD19-Logos/wiad19logos_text_color.svg)
+- **Greyscale text logo**
+	- [PNG](branding/WIAD19/WIAD19-Logos/wiad19logos_text-logo_greyscale.png)
+	- [SVG](branding/WIAD19/WIAD19-Logos/wiad19logos_text-logo_greyscale.svg)
 
 ## WIAD19 Theme Illustrations
 For WIAD19, we enlisted [Sketch Squad](https://www.facebook.com/SketchSquad123/), a student organization at Purdue University, to create an illustration that visualizes the global theme "Design for Difference".
