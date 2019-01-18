@@ -56,16 +56,14 @@ Guidebook created to help organizers of World IA Day events.
 
 ### [Resources](resources.md)
 
-**Assets**
 - [Brand Guidelines](branding/WIAD17/WIAD17-Brand-guidelines.pdf)
 - [Logos](resources.md#logos)
 - [WIAD19 Illustration](resources.md#WIAD19_Theme_illustrations)
 - [Templates](resources.md#templates)
 
-
 ### Contact
 
 Having questions or concerns? We’ll help you sort it out.
-- Slack: http://worldiaday.slack.com [Join](http://bit.ly/wiad-slack)
-- Email: producer@worldiaday.org or global@worldiaday.org
+- Slack: [http://worldiaday.slack.com](http://worldiaday.slack.com) [Join](http://bit.ly/wiad-slack)
+- Email: [producer@worldiaday.org](mailto:producer@worldiaday.org) or [global@worldiaday.org](mailto:global@worldiaday.org)
 - Twitter: [@worldiaday](https://twitter.com/WorldIADay)

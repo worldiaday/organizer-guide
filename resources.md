@@ -3,7 +3,9 @@
 The following resources have been updated for WIAD19.
 
 **Contents**
+
 - [Logos](#logos)
+- [Sponsors](#sponsors)
 - [WIAD19 Theme Illustrations](#wiad19-theme-illustrations)
 - [Templates](#templates)
 
@@ -57,6 +59,33 @@ Secondary logo includes the logo and abbreviated text "WIAD"
 - **Greyscale text logo**
 	- [PNG](branding/WIAD19/WIAD19-Logos/wiad19logos_text-logo_greyscale.png)
 	- [SVG](branding/WIAD19/WIAD19-Logos/wiad19logos_text-logo_greyscale.svg)
+
+## Sponsors
+
+- **Axure**
+  - [PNG](branding/WIAD19/Global-sponsors/Axure.png)
+  - [SVG](branding/WIAD19/Global-sponsors/Axure.svg)
+
+- **LA-DIA-Design**
+  - [PNG](branding/WIAD19/Global-sponsors/LA-DIA-Design.png)
+  - [SVG](branding/WIAD19/Global-sponsors/LA-DIA-Design.svg)
+
+- **Loop11**
+  - [PNG](branding/WIAD19/Global-sponsors/Loop11.png)
+  - [SVG](branding/WIAD19/Global-sponsors/Loop11.svg)
+
+- **Optimal-Workshop**
+  - [PNG](branding/WIAD19/Global-sponsors/Optimal-Workshop.png)
+  - [SVG](branding/WIAD19/Global-sponsors/Optimal-Workshop.svg)
+
+- **Rosenfeld**
+  - [PNG](branding/WIAD19/Global-sponsors/Rosenfeld.png)
+  - [SVG](branding/WIAD19/Global-sponsors/Rosenfeld.svg)
+
+- **TUG**
+  - [PNG](branding/WIAD19/Global-sponsors/TUG.png)
+  - [SVG](branding/WIAD19/Global-sponsors/TUG.svg)
+
 
 ## WIAD19 Theme Illustrations
 For WIAD19, we enlisted [Sketch Squad](https://www.facebook.com/SketchSquad123/), a student organization at Purdue University, to create an illustration that visualizes the global theme "Design for Difference".
