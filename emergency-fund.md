@@ -32,12 +32,15 @@ To request funds for your location, please fill out the form here: [https://goo.
 
 ## Qualified Expenses
 
-Transportation costs - Not Qualified
-Food costs - Not Qualified
-Beverage costs - Not Qualified
-Gifts for speakers - Not Qualified
-Gifts for volunteers - Not Qualified
-Swag or gifts for attendees - Not Qualified
-Insurance costs - Qualified
-Real-time captioning or CART services - Qualified
-Sign language interpretation - Qualified
+### Not Qualified Expenses
+* Transportation costs
+* Food costs
+* Beverage costs
+* Gifts for speakers
+* Gifts for volunteers
+* Swag or gifts for attendees
+
+### Qualified Expenses
+* Insurance costs
+* Real-time captioning or CART services
+* Sign language interpretation
