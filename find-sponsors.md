@@ -152,9 +152,13 @@ Send the following instructions to your sponsor:
 We will accept checks made out to the IA Institute. Once deposited, the donation will be marked for the intended location if this information is clear (see the next section about receiving money) Send the following instructions to your sponsor:
 
 1. Mail check to:
+
 Information Architecture Institute
+
 PO Box 9095
-Tampa, FL 33647
+
+Tampa, FL 33674
+
 
 2. In the memo section, note the location receiving the money (e.g. WIAD + `locationname`).
 
