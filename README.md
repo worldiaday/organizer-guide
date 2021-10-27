@@ -1,6 +1,8 @@
 ## World IA Day Organizer Guidebook
 Guidebook created to help organizers of World IA Day events.
 
+> This repo is outdated. Please use https://guides.worldiaday.org/organizers/
+
 - 2017 edition, Amy Espinosa
 - 2018 edition, Sam Raddatz, Evgeni Minchev, and Grace Lau
 - 2019 edition, Grace Lau
